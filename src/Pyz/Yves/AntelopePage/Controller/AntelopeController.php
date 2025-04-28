@@ -10,6 +10,8 @@ use Symfony\Component\HttpFoundation\Response;
 class AntelopeController extends AbstractController
 {
     /**
+     * 
+     * task 2
      * @var \Pyz\Yves\AntelopePage\AntelopePageFactory
      */
     protected $factory;
@@ -20,7 +22,6 @@ class AntelopeController extends AbstractController
     }
 
     /**
-     * Displays a list of antelopes.
      *
      * @param \Symfony\Component\HttpFoundation\Request $request
      * @return \Symfony\Component\HttpFoundation\Response
