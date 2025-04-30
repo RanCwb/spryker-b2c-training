@@ -163,4 +163,3 @@ docker/sdk up --build --assets --data
 ## Contributing to the repository
 
 For contribution guidelines, see [Code contribution guide](https://docs.spryker.com/docs/dg/dev/code-contribution-guide.html).
-# spryker-b2c-training
