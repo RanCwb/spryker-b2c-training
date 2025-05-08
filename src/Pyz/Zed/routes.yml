@@ -1,0 +1,6 @@
+customer-merchant-portal:
+  resource: |
+    type:     "path"
+    prefix:   "/customer"
+    path:     "@CustomerMerchantPortal/Controller/Customer/indexAction"
+  type: annotation
